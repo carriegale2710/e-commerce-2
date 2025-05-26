@@ -1,0 +1,324 @@
+[
+  {
+    "id": "huda-beauty-creamy-kohl-eyeliner",
+    "rating": 4.8,
+    "productType": "eyeliner",
+    "productURL": "https://www.sephora.com.au/products/huda-beauty-creamy-kohl-longwear-eye-pencil/",
+    "imgURL": [
+      "https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_6294018400905-Huda-Beauty-Creamy-Kohl-Longwear-Eye-Pencil-Very-Vanta_70b9d25c8d87a52f374b60e896cf115b5cdfec1f_1675920068.png",
+      "https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_6294018400912-Huda-Beauty-Creamy-Kohl-Longwear-Eye-Pencil-Very-Brown_d7e161a1fa65b63c39ef130a5cebf708f63efaf1_1675920069.png"
+    ],
+    "variants": ["Very Vanta", "Very Brown"],
+    "stock": [15, 8],
+    "price": 39,
+    "description": {
+      "finish": "Creamy, Semi-Matte",
+      "formulation": "Pencil",
+      "benefits": "Long-wearing, Smudge-resistant, Waterproof",
+      "whatItIs": "A creamy, ultra-pigmented kohl eyeliner pencil that glides on smoothly and stays put for up to 12 hours.",
+      "whatItDoes": "This versatile eye pencil delivers intense color payoff with a velvety smooth application. The creamy formula allows for easy blending immediately after application, then sets to a budge-proof finish that won't smudge, transfer, or fade. Perfect for creating precise lines, smoky eyes, or as a base for eyeshadow.",
+      "WhatItIncludes": "* Very Vanta (Extreme Black): A classic onyx shade for creating both timeless and unconventional looks. * Very Brown: A rich chocolate for soft look and definition."
+    },
+    "name": "Creamy Kohl Longwear Eye Pencil • 1.5g"
+  },
+  {
+    "id": "rare-beauty-perfect-strokes-gel-eyeliner",
+    "productType": "eyeliner",
+    "variants": ["True Black", "Rich Black Brown", "Deep Mauve"],
+    "description": {
+      "benefits": "Waterproof, Smudge-proof, Long-wearing",
+      "formulation": "Gel Pencil",
+      "whatItIs": "A waterproof gel eyeliner pencil that delivers the smooth glide of a gel with the precision of a pencil.",
+      "whatItDoes": "This creamy gel pencil eyeliner delivers intense color payoff that glides on smoothly without skipping or tugging. The waterproof formula sets in place for up to 12 hours of wear without smudging or transferring. Perfect for creating precise lines along the lashline or waterline. Formulated with a botanical blend of lotus, gardenia, and white water lily to nourish the delicate eye area.",
+      "finish": "Matte"
+    },
+    "rating": 4.5,
+    "productURL": "https://www.sephora.com.au/products/rare-beauty-perfect-strokes-longwear-gel-eyeliner/",
+    "name": "Perfect Strokes Longwear Gel Eyeliner • 0.35g",
+    "imgURL": [
+      "https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_840122906169-Rare-Beauty-Perfect-Strokes-Longwear-Gel-Eyeliner-True-Black-212322_037081aaedd9f9885640e9f169a56d10cdacf711_1688442865.png",
+      "https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_840122906176-Rare-Beauty-Perfect-Strokes-Longwear-Gel-Eyeliner-True-Brown-4e3629_1a7a968020e3813374b46d167f5fcfdb60276f60_1688442866.png",
+      "https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_840122906183-Rare-Beauty-Perfect-Strokes-Longwear-_3230e159a8f778997bf6f1d2fd8ae34b9ae3fb00_1724057365.png"
+    ],
+    "stock": [14, 9, 6],
+    "price": 32
+  },
+  {
+    "id": "anastasia-beverly-hills-liquid-eyeliner",
+    "stock": [12, 9, 7],
+    "price": 45,
+    "name": "Liquid Eyeliner • 3ml",
+    "description": {
+      "benefits": "Waterproof, Long-lasting, Precise Application",
+      "finish": "Satin, High-Shine",
+      "whatItDoes": "This intense liquid liner features a fine-tip brush applicator that delivers smooth, even color with ultimate precision. The quick-drying, waterproof formula resists smudging, flaking, and fading for up to 12 hours. The ultra-fine brush tip allows you to create anything from delicate, thin lines to bold, dramatic strokes with complete control.",
+      "whatItIs": "A high-pigment, waterproof liquid eyeliner with a precision brush tip for effortless application.",
+      "formulation": "Liquid"
+    },
+    "variants": ["Jet Black", "Dark Brown", "Elegant Navy"],
+    "productURL": "https://www.sephora.com.au/products/anastasia-beverly-hills-liquid-eyeliner/",
+    "imgURL": [
+      "https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_689304214223-Anastasia-Beverly-Hills-Liquid-Eyeliner-True-Black-Matte-Updated_13bee9e55c56423223c80b731646416decea8a8d_1683040323.png",
+      "https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_689304214322-Anastasia-Beverly-Hills-Liquid-Eyelin_9096ae228e833f2abdf3fc4df6b30febc6d8ec94_1728285955.png",
+      "https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_689304214346-Anastasia-Beverly-Hills-Liquid-Eyelin_6d5879451712423d010bcc938dba0d843c04949f_1728285958.png"
+    ],
+    "productType": "eyeliner",
+    "rating": 4.3
+  },
+  {
+    "id": "rare-beauty-lip-souffle",
+    "name": "Lip Souffle Matte Lip Cream • 2.7ml",
+    "price": 34,
+    "productURL": "https://www.sephora.com.au/products/rare-beauty-lip-souffle-matte-lip-cream/v/ascend",
+    "variants": ["Ascend", "Courage", "Brave", "Inspire"],
+    "description": {
+      "whatItIs": "A weightless air-whipped lip cream that delivers rich color with a velvet-matte finish.",
+      "benefits": "Lightweight, Long-wearing, Comfortable",
+      "finish": "Matte, Velvety",
+      "whatItDoes": "This innovative formula feels like a soufflé for your lips—light, airy, and comfortable. The velvety texture melts into lips, delivering intense color without feeling heavy or drying. Infused with a botanical blend of lotus, gardenia, and white waterlily to nourish lips while providing all-day wear.",
+      "formulation": "Cream, Liquid"
+    },
+    "stock": [9, 0, 7, 0],
+    "imgURL": [
+      "https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_840122900259-Rare-Beauty-Lip-Souffle-Matte-Lip-Cream-Ascend_f0922381ee57ecac0d91fd49e2a16578975a263d_1623398187.png",
+      "https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_840122900211-Rare-Beauty-Lip-Souffle-Matte-Lip-Cream-Brave_833be831d9c768d8c2be421ad31d54f412784f2d_1623398182.png",
+      "https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_840122905339-Rare-Beauty-Lip-Souffle-Matte-Lip-Cream-Confident_d5dc7be2d2d05c51bb94172be47a704d3852c04e_1669645524.png",
+      "https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_840122900198-Rare-Beauty-Lip-Souffle-Matte-Lip-Cream-Courage_58b76aa28fd1c4b6239261a129b7b5d862847053_1623398180.png"
+    ],
+    "productType": "lipstick",
+    "rating": 4.4
+  },
+  {
+    "id": "clinique-almost-lipstick",
+    "description": {
+      "formulation": "Balm, Stick",
+      "whatItIs": "A cult-favorite sheer lipstick that enhances your natural lip color with a hint of tint and glossy shine.",
+      "whatItDoes": "This translucent formula adapts to your unique chemistry, creating a custom shade that's perfect for you. The sheer color can be built up for more intensity or worn as a subtle wash. The moisturizing formula keeps lips comfortable, while the glossy finish gives a youthful appearance without the stickiness of a gloss.",
+      "benefits": "Moisturizing, Buildable",
+      "finish": "Sheer, Glossy"
+    },
+    "imgURL": [
+      "https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_20714004507-Clinique-Almost-Lipstick-Black-Honey_90eb512435ae1a751f4c624bdf908b00cb9d3d80_1646738468.png",
+      "https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_20714782702-Clinique-Almost-Lipstick-Pink-Honey_50896688e01f5ec20218e4b0e144da4007be43cb_1661498046.png"
+    ],
+    "price": 45,
+    "stock": [15, 8],
+    "productURL": "https://www.sephora.com.au/products/clinique-almost-lipstick/",
+    "productType": "lipstick",
+    "variants": ["Black Honey", "Pink Honey"],
+    "rating": 4.4,
+    "name": "Almost Lipstick • 1.9g"
+  },
+  {
+    "id": "natasha-denona-need-nude",
+    "rating": 3.9,
+    "name": "I Need A Nude Lipstick • 3.5g",
+    "variants": [
+      "1B Charlotte",
+      "2B Averyl",
+      "3B Naya",
+      "4B Sami",
+      "5B Nati",
+      "6B Judith"
+    ],
+    "price": 45,
+    "imgURL": [
+      "https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_7290113701274-Natasha-Denona-I-Need-A-Nude-Lipstick-1B-Charlotte_ba2905650ec6d942c96895d4ab88a06b90ecc22d_1569920605.png",
+      "https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_7290113701380-Natasha-Denona-I-Need-A-Nude-Lipstick-23P-Averyl_98ca9fa45a249064fe57afbe43af44e1fa8ebc67_1569920618.png",
+      "https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_7290113700130-Natasha-Denona-I-Need-A-Nude-Lipstick-4B-Naya_6fe82ca298c7209fb0487aa29a03d5b7d055d535_1569920646.png",
+      "https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_7290113701298-Natasha-Denona-I-Need-A-Nude-Lipstick-3B-Sami_b9eef30fc8fd9ef10d33f6b9db856da3a9f31083_1569920607.png",
+      "https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_7290113701304-Natasha-Denona-I-Need-A-Nude-Lipstick-5B-Nati_07ad23915d1f281a7d415b5d5d75b62c9a3604e1_1569920609.png",
+      "https://image-optimizer-reg.production.sephora-asia.net/images/product_images/closeup_1_Product_7290113701335-Natasha-Denona-I-Need-A-Nude-Lipstick-14NB-Judith_d323d5235a0e02e675a3182b5e3d9d7c67778fbd_1569920612.png"
+    ],
+    "stock": [7, 9, 14, 5, 11, 8],
+    "productURL": "https://www.sephora.com.au/products/natasha-denona-i-need-a-nude-lipstick/v/1b-charlotte",
+    "productType": "lipstick",
+    "description": {
+      "formulation": "Cream, Stick",
+      "whatItIs": "A creamy, hydrating lipstick in a range of universally flattering nude shades designed to complement various skin tones.",
+      "finish": "Cream, Natural",
+      "whatItDoes": "This luxurious lipstick formula offers medium to full coverage with a smooth, creamy finish. Enriched with nourishing oils and waxes to keep lips comfortable and hydrated throughout wear. The sophisticated nude shades were carefully developed to enhance the natural beauty of lips.",
+      "benefits": "Hydrating, Comfortable"
+    }
+  },
+  {
+    "id": "gxve-im-still-here-liquid-lipstick",
+    "stock": [8, 11, 15, 6, 10],
+    "variants": [
+      "Camo (Cool Beige)",
+      "Original Recipe (Brick Red)",
+      "Spicy (Warm Terracotta)",
+      "Tragic Melon (Bright Coral)",
+      "Bubble Pop Electric (Vibrant Pink)"
+    ],
+    "productURL": "https://www.sephora.com.au/products/gxve-by-gwen-stefani-im-still-here-lightweight-longwear-matte-liquid-lipstick/v/camo-cool-beige",
+    "productType": "lipstick",
+    "description": {
+      "whatItDoes": "This ultra-lightweight liquid lipstick delivers bold, saturated color that truly lasts all day. The innovative formula dries down to a comfortable matte finish that won't crack, feather, or transfer. Designed to feel weightless on the lips while providing intense pigmentation and staying power.",
+      "finish": "Matte",
+      "whatItIs": "A lightweight, longwear matte liquid lipstick that delivers high-impact color with up to 16 hours of wear.",
+      "benefits": "Longwear, Transfer-proof, Lightweight",
+      "formulation": "Liquid"
+    },
+    "price": 40,
+    "imgURL": [
+      "./camo",
+      "./originalRecipe",
+      "./spicy",
+      "./tragicMelon",
+      "./bubblePopElectric"
+    ],
+    "name": "I'm Still Here Lightweight Longwear Matte Liquid Lipstick • 4ml"
+  },
+  {
+    "id": "fenty-beauty-eaze-drop-skin-tint",
+    "stock": [18, 12, 9, 15, 7],
+    "price": 52,
+    "name": "Eaze Drop Blurring Skin Tint Foundation • 32ml",
+    "description": {
+      "formulation": "Liquid, Skin Tint",
+      "benefits": "Lightweight, Blurring, Humidity-Resistant",
+      "whatItDoes": "This buildable, light-to-medium coverage skin tint smooths the look of pores, evens skin tone, and fights shine without the feel of a typical foundation. The QuickBlur complex creates a soft-focus effect while the humidity-resistant formula ensures long-lasting wear. Perfect for a quick application and easy to build for more coverage where needed.",
+      "whatItIs": "A light-coverage, easy-to-apply skin tint that instantly blurs pores and evens skin tone with a natural, soft-blur finish.",
+      "finish": "Natural, Soft-Blur"
+    },
+    "variants": ["1", "2", "3", "4", "5"],
+    "productURL": "https://www.sephora.com.au/products/fenty-beauty-eaze-drop-blurring-skin-tint-foundation/v/1",
+    "imgURL": ["./shade1", "./shade2", "./shade3", "./shade4", "./shade5"],
+    "productType": "foundation"
+  },
+  {
+    "id": "guerlain-kisskiss-tender-matte",
+    "imgURL": [
+      "./tenderRose",
+      "./spicyPink",
+      "./tenderCoral",
+      "./tenderNude",
+      "./tenderRosewood",
+      "./tenderBrown"
+    ],
+    "name": "KissKiss Lips Tender Matte Lipstick • 2.8g",
+    "price": 65,
+    "productType": "lipstick",
+    "stock": [10, 13, 6, 9, 11, 8],
+    "variants": [
+      "No. 219 Tender Rose",
+      "No. 224 Spicy Pink",
+      "No. 501 Tender Coral",
+      "No. 513 Tender Nude",
+      "No. 515 Tender Rosewood",
+      "No. 517 Tender Brown"
+    ],
+    "description": {
+      "benefits": "Hydrating, Long-wearing, Comfortable",
+      "whatItIs": "A luxurious matte lipstick with a tender, comfortable formula that protects and hydrates lips while delivering rich color.",
+      "whatItDoes": "This premium matte lipstick combines the elegance of Guerlain with the comfort of a nourishing lip treatment. The creamy formula glides on effortlessly, delivering intense color with a velvety matte finish that never feels dry. Infused with hyaluronic acid and shea butter to hydrate and protect lips throughout wear.",
+      "formulation": "Cream, Stick",
+      "finish": "Matte"
+    },
+    "productURL": "https://www.sephora.com.au/products/guerlain-kisskiss-tender-matte-lipstick/"
+  },
+  {
+    "id": "rare-kind-words-matte",
+    "imgURL": [
+      "./worthy",
+      "./bold",
+      "./fun",
+      "./strong",
+      "./gifted",
+      "./wise",
+      "./creative",
+      "./humble",
+      "./talented",
+      "./devoted"
+    ],
+    "variants": [
+      "Worthy",
+      "Bold",
+      "Fun",
+      "Strong",
+      "Gifted",
+      "Wise",
+      "Creative",
+      "Humble",
+      "Talented",
+      "Devoted"
+    ],
+    "name": "Kind Words Matte Lipstick • 2g",
+    "price": 36,
+    "description": {
+      "formulation": "Cream, Stick",
+      "benefits": "Long-wearing, Comfortable, Nourishing",
+      "whatItIs": "A weightless, ultra-comfortable matte lipstick that hugs lips with nourishing color that lasts all day.",
+      "finish": "Matte",
+      "whatItDoes": "This buttery-soft, weightless lipstick delivers color that feels good on your lips. The nourishing formula has a soft-touch finish that won't flake or crack and stays put all day. Enriched with a botanical blend of lotus, gardenia, and white waterlily to help soothe, calm, and nourish lips."
+    },
+    "productURL": "https://www.sephora.com.au/products/rare-beauty-kind-words-matte-lipstick/",
+    "productType": "lipstick",
+    "stock": [12, 8, 15, 6, 10, 9, 7, 14, 11, 5]
+  },
+  {
+    "id": "tarte-maracuja-juicy-lip",
+    "stock": [12, 9, 14, 7, 11, 8, 5, 10],
+    "description": {
+      "whatItDoes": "This multi-tasking lip product combines the best of skincare and makeup in one luxurious formula. Maracuja oil and grapeseed extract hydrate and smooth lips while adding a sheer wash of color and glass-like shine. The cushiony texture feels comfortable on lips and provides a subtle plumping effect without any sting.",
+      "benefits": "Hydrating, Plumping, Sheer Color",
+      "whatItIs": "A hydrating lip treatment that delivers the shine of a gloss, the care of a balm, and a kiss of juicy color.",
+      "formulation": "Balm, Gloss",
+      "finish": "Glossy, Hydrated"
+    },
+    "price": 35,
+    "productURL": "https://www.sephora.com.au/products/tarte-maracuja-juicy-lip/",
+    "imgURL": [
+      "./pinkSands",
+      "./clear",
+      "./rose",
+      "./orchid",
+      "./hibiscus",
+      "./ruby",
+      "./cherry",
+      "./coconut"
+    ],
+    "productType": "lipstick",
+    "variants": [
+      "Pink Sands",
+      "Clear",
+      "Rose",
+      "Orchid",
+      "Hibiscus",
+      "Ruby",
+      "Cherry",
+      "Coconut"
+    ],
+    "name": "Maracuja Juicy Lip • 2.8ml"
+  },
+  {
+    "id": "huda-beauty-easy-blur-foundation",
+    "productURL": "https://www.sephora.com.au/products/huda-beauty-easy-blur-natural-airbrush-foundation/v/100b-milkshake",
+    "variants": [
+      "100B Milkshake",
+      "110N Angel Food",
+      "120B Vanilla",
+      "130N Coconut Cream",
+      "140G Shortbread"
+    ],
+    "description": {
+      "finish": "Natural, Semi-Matte",
+      "formulation": "Liquid",
+      "whatItDoes": "This innovative foundation uses Blur Technology to instantly diffuse imperfections while looking completely natural. The buildable medium coverage formula blends effortlessly into skin for a second-skin look that lasts all day. Suitable for all skin types, it's enriched with hyaluronic acid and vitamin E to nourish and hydrate skin while providing flawless coverage.",
+      "whatItIs": "A high-performance, natural finish foundation that feels weightless on skin and creates an airbrushed effect.",
+      "benefits": "Lightweight, Blurring, Medium Coverage"
+    },
+    "productType": "foundation",
+    "name": "Easy Blur Natural Airbrush Foundation • 29ml",
+    "imgURL": [
+      "./milkshake",
+      "./angelFood",
+      "./vanilla",
+      "./coconutCream",
+      "./shortbread"
+    ],
+    "price": 65,
+    "stock": [15, 9, 12, 8, 20]
+  }
+]
