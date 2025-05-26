@@ -89,3 +89,11 @@ A list of all products added to the user's cart and a total price
   - https://docs.stripe.com/payments/checkout
   - https://docs.stripe.com/payments/checkout/build-integration
   - https://docs.stripe.com/stripe-vscode
+
+# Figma UI Design Mockup
+
+![Figma-mockup](docs/Final_Design_Mockups.png)
+
+# Data Diagram
+
+![db-diagram](docs/db-diagram-data-flow-e-commerce.png)
