@@ -79,6 +79,12 @@ A list of all products added to the user's cart and a total price
 - [React-router-dom](https://reactrouter.com/start/framework/navigating)
 - [Dummy JSON](https://dummyjson.com/)
 - [Fake Store API](https://fakestoreapi.com/)
+
+- Firebase:
+
+  - https://firebase.google.com/docs/firestore/quickstart
+  - https://firebase.google.com/docs/web/setup?sdk_version=v9
+
 - Stripe Docs:
   - https://docs.stripe.com/payments/checkout
   - https://docs.stripe.com/payments/checkout/build-integration
