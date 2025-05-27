@@ -1,0 +1,19 @@
+.description {
+  header {
+    width: 100%;
+    font-size: larger;
+  }
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  max-width: 80vw;
+  padding: 10%;
+  div {
+    padding: 5%;
+    max-width: 800px;
+  }
+}

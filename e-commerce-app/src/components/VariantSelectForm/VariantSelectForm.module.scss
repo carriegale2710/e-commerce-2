@@ -1,0 +1,46 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.favButton {
+  position: absolute;
+  top: 1%;
+  right: 1%;
+
+  background-color: rgba(226, 122, 139, 0.541);
+  padding: 10px;
+
+  &.active {
+    color: rgb(255, 255, 255);
+    background-color: rgb(236, 69, 97);
+  }
+  &:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(177, 52, 73);
+  }
+}
+
+.addButton {
+  background-color: rgb(201, 74, 91);
+  padding: 10px;
+
+  &:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(177, 52, 73);
+  }
+}
+
+.variant-picker {
+  width: 80%;
+  max-width: 100%;
+  max-height: 100%;
+  display: flex;
+}
+
+option {
+  max-width: 100%;
+  max-height: 100%;
+  width: 40px;
+}

@@ -1,0 +1,43 @@
+// Read More: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_overflow/CSS_carousels#carousel_with_single_pages
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 10px;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  gap: 10px;
+  overflow-x: auto;
+  width: 100vw;
+  background-color: rgba(255, 192, 203, 0.048);
+}
+
+ul {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 1rem;
+  padding: 1rem;
+  list-style: none;
+  overflow: hidden;
+  // max-height: 500px;
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+
+  ::scroll-button(*) {
+    border: 0;
+    font-size: 2rem;
+    background: none;
+    color: rgb(0 0 0 / 0.7);
+    cursor: pointer;
+  }
+
+  li {
+    scroll-snap-align: center;
+  }
+}

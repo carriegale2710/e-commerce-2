@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid red;
+  padding: 10px;
+  margin: 10px;
+}
+
+.card {
+  height: auto;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  text-wrap: inherit;
+  border: 2px solid red;
+  padding: 10px;
+  margin: 10px;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  text-wrap: inherit;
+  padding: 10px;
+}
+
+.button {
+  width: auto;
+  height: 50px;
+}
